@@ -1,0 +1,16 @@
+[
+  {
+    "role": "Software Engineer",
+    "company": "Company Name",
+    "period": "2023 – Present",
+    "description": "Describe what you built and the impact it had. Keep it to 1–2 sentences.",
+    "tags": ["TypeScript", "React", "Node.js", "AWS"]
+  },
+  {
+    "role": "Junior Developer",
+    "company": "Previous Company",
+    "period": "2021 – 2023",
+    "description": "Another role description. Focus on achievements over responsibilities.",
+    "tags": ["JavaScript", "Python", "PostgreSQL"]
+  }
+]

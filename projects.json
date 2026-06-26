@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Project Name",
+    "description": "One or two sentences describing what it does and why it's interesting.",
+    "url": "https://github.com/heringer/project-name",
+    "image": "https://raw.githubusercontent.com/heringer/portfolio-data/main/images/project-name.png",
+    "tags": ["React", "TypeScript", "GraphQL"]
+  },
+  {
+    "name": "Another Project",
+    "description": "Description of the project. What problem does it solve?",
+    "url": "https://project-live-url.com",
+    "image": "",
+    "tags": ["Python", "FastAPI", "Docker"]
+  }
+]

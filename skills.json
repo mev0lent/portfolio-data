@@ -1,0 +1,6 @@
+{
+  "Languages": ["JavaScript", "TypeScript", "Python", "SQL", "HTML / CSS"],
+  "Frameworks": ["React", "Next.js", "Node.js", "Express", "Tailwind CSS"],
+  "Tools & Infra": ["Docker", "AWS", "Git", "PostgreSQL", "Redis"],
+  "Currently exploring": ["Rust", "WebAssembly", "LLMs"]
+}
