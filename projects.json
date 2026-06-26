@@ -3,56 +3,56 @@
     "name": "Hardener",
     "description": "Cross-platform security hardening tool written in Go — no external dependencies. Supports audit, fix, and atomic rollback from a single binary across Ubuntu, Debian, Rocky Linux, ArchLinux, RHEL, Fedora, and macOS. Published as ERNW Whitepaper.",
     "url": "https://github.com/mev0lent/hardener",
-    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/hardener.png",
+    "image": "",
     "tags": ["Go", "Security Hardening", "Linux", "macOS", "ERNW", "Open Source"]
   },
   {
     "name": "Cherry Picker",
     "description": "Reconnaissance tool built during the CERN Whitehat Challenge. Leverages entropy filtering, TTL clustering, and cloud targeting for web enumeration & OSINT. Still in early development — the idea is solid, the time is scarce.",
     "url": "https://github.com/mev0lent/cherry-picker",
-    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/cherry-picker.png",
+    "image": "",
     "tags": ["Go", "OSINT", "Reconnaissance", "CERN", "Network Analysis"]
   },
   {
     "name": "Forensic Log Tracker",
     "description": "Modular CLI framework for documenting and verifying forensic investigations. Implements cryptographic GPG signing and hash verification. Provides legally consistent documentation in German legal language. Used in university-level forensic training at Hochschule Mannheim.",
     "url": "https://github.com/mev0lent/forensic-log-tracker",
-    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/forensic-log-tracker.png",
+    "image": "",
     "tags": ["Python", "GPG", "Cryptography", "Forensics", "Open Source"]
   },
   {
     "name": "Troopers26 — Conference Design",
     "description": "Designed the complete visual identity for Troopers26 — Europe's premier security conference. Banners, posters, shirts, bags, lanyards, stickers, patches, and stage files. Collaborated with Matthias Ortmann.",
     "url": "https://www.linkedin.com/in/mortmann/",
-    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/troopers26.png",
+    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/troopers_26_heidelberg.JPG",
     "tags": ["Design", "Branding", "Troopers", "Conference"]
   },
   {
-    "name": "ERNW Whitepapers (2026)",
+    "name": "ERNW Whitepapers 2026",
     "description": "Author of three security publications at ERNW: Unified Security Hardening with Cross-Platform Native Binaries (Issue 77), Linux Client Hardening Guide (Issue 76), and macOS Tahoe Hardening Guide (Issue 75, co-authored with Julian Suleder).",
     "url": "https://niklas-heringer.com/publications/",
-    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/ernw-whitepapers.png",
+    "image": "",
     "tags": ["Security Research", "Whitepapers", "ERNW", "Linux", "macOS"]
   },
   {
     "name": "CERN Whitehat Challenge",
     "description": "Certified participant in CERN's real-world penetration test program. Conducted security assessments under strict ethical guidelines, focused on web enumeration & OSINT.",
     "url": "https://niklas-heringer.com/blog/",
-    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/cern.png",
+    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/CERN_Whitehat_Challenge_Cert.jpg",
     "tags": ["Penetration Testing", "CERN", "Web Security", "OSINT", "Ethical Hacking"]
   },
   {
     "name": "CTF — 2nd Place",
     "description": "Placed second in the \"CAPTURE THE FLAG\" Hacking Challenge 2025 together with a colleague. A great adventure — there's a full writeup on the blog.",
     "url": "https://niklas-heringer.com/blog/",
-    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/ctf.png",
+    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/MANNHEIM_CTF_25_price.jpg",
     "tags": ["CTF", "Hacking Challenge", "Competition"]
   },
   {
     "name": "Black Hat Europe 2025",
     "description": "Attended Black Hat Europe in London — my first big security conference. Met awesome people and absorbed hours of talks that somehow managed to hold my ADHD-ridden mind.",
     "url": "https://www.blackhat.com/eu-25/",
-    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/blackhat.png",
+    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/blackhat_london_25.jpeg",
     "tags": ["Black Hat", "Security Conference", "London", "Networking"]
   }
 ]
