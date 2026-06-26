@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Troopers26 — Conference Design",
+    "description": "Designed the complete visual identity for Troopers26 — Europe's premier security conference. Banners, posters, shirts, bags, lanyards, stickers, patches, and stage files. Collaborated with Matthias Ortmann.",
+    "url": "https://www.linkedin.com/in/mortmann/",
+    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/troopers_26_heidelberg.JPG",
+    "tags": ["Design", "Branding", "Troopers", "Conference"]
+  },
+  {
+    "name": "CERN Whitehat Challenge",
+    "description": "Certified participant in CERN's real-world penetration test program. Conducted security assessments under strict ethical guidelines, focused on web enumeration & OSINT.",
+    "url": "https://niklas-heringer.com/blog/",
+    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/CERN_Whitehat_Challenge_Cert.jpg",
+    "tags": ["Penetration Testing", "CERN", "Web Security", "OSINT", "Ethical Hacking"]
+  },
+  {
+    "name": "CTF — 2nd Place",
+    "description": "Placed second in the \"CAPTURE THE FLAG\" Hacking Challenge 2025 together with a colleague. A great adventure — there's a full writeup on the blog.",
+    "url": "https://niklas-heringer.com/blog/",
+    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/MANNHEIM_CTF_25_price.jpg",
+    "tags": ["CTF", "Hacking Challenge", "Competition"]
+  },
+  {
+    "name": "Black Hat Europe 2025",
+    "description": "Attended Black Hat Europe in London — my first big security conference. Met awesome people and absorbed hours of talks that somehow managed to hold my ADHD-ridden mind.",
+    "url": "https://www.blackhat.com/eu-25/",
+    "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/blackhat_london_25.jpeg",
+    "tags": ["Black Hat", "Security Conference", "London", "Networking"]
+  }
+]
