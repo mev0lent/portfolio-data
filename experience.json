@@ -1,16 +1,65 @@
 [
   {
-    "role": "Software Engineer",
-    "company": "Company Name",
-    "period": "2023 – Present",
-    "description": "Describe what you built and the impact it had. Keep it to 1–2 sentences.",
-    "tags": ["TypeScript", "React", "Node.js", "AWS"]
+    "type": "work",
+    "role": "Penetration Tester",
+    "company": "ERNW",
+    "period": "Sep 2025 – Present",
+    "location": "Heidelberg",
+    "description": "Regularly partaking in penetration tests across various client environments. Developing own project in security hardening & hardening automation. Focus on Web Security Academy with the goal of becoming Burp Suite Certified Practitioner.",
+    "tags": ["Web Pentesting", "Burp Suite", "Security Hardening", "Go", "Open Source"]
   },
   {
-    "role": "Junior Developer",
-    "company": "Previous Company",
-    "period": "2021 – 2023",
-    "description": "Another role description. Focus on achievements over responsibilities.",
-    "tags": ["JavaScript", "Python", "PostgreSQL"]
+    "type": "work",
+    "role": "Lead Architect — Cyber Security Risk Intelligence Platform",
+    "company": "BASF",
+    "period": "Jan 2023 – Aug 2025",
+    "location": "Ludwigshafen",
+    "description": "Led the architecture and implementation of BASF's internal quantitative cyber risk platform from the ground up. Designed modular metric systems, cost-benefit models, and ML-powered automation pipelines. Initiated platform use as a potential testbed for post-quantum cryptographic evaluations (NIST PQC candidates). Delivered scalable internal tooling across global teams in China, Singapore, Spain, and the US. Drove secure software design decisions and supported engineers across cybersecurity and development units.",
+    "tags": ["Risk Quantification", "ML Pipelines", "Post-Quantum Cryptography", "Architecture", "Python", "Global Teams"]
+  },
+  {
+    "type": "work",
+    "role": "Software Engineering Working Student",
+    "company": "ITK Engineering",
+    "period": "Jan 2022 – Dec 2022",
+    "location": "Rülzheim",
+    "description": "Developed internal software as part of an international team. Gained experience with larger enterprise codebases, working in Scrum and applying Secure Coding practices.",
+    "tags": ["Scrum", "Secure Coding", "Enterprise Software"]
+  },
+  {
+    "type": "work",
+    "role": "Freelance Developer & IT Support",
+    "company": "Self-employed",
+    "period": "Jan 2019 – Dec 2021",
+    "location": "Ludwigshafen",
+    "description": "Built websites, small-scale software, and maintained IT infrastructure for clients. Projects include reiterhof-kinderhilfe.de, blauersalon-lu.de, and hergt-transporte.de.",
+    "tags": ["Web Development", "JavaScript", "IT Infrastructure"]
+  },
+  {
+    "type": "education",
+    "role": "B.Sc. Cyber Security",
+    "company": "Hochschule Mannheim",
+    "period": "2023 – Present",
+    "location": "Mannheim",
+    "description": "Focus on cryptography, offensive security, and secure software engineering.",
+    "tags": ["Cryptography", "Offensive Security", "Applied Sciences"]
+  },
+  {
+    "type": "education",
+    "role": "B.Sc. Mathematics (transferred)",
+    "company": "Karlsruhe Institute of Technology (KIT)",
+    "period": "2022 – 2023",
+    "location": "Karlsruhe",
+    "description": "Studied mathematics before transitioning to Cyber Security.",
+    "tags": ["Mathematics", "KIT"]
+  },
+  {
+    "type": "education",
+    "role": "Abitur",
+    "company": "Gymnasium Ludwigshafen",
+    "period": "– 2022",
+    "location": "Ludwigshafen",
+    "description": "Graduated with a GPA of 1.1 and four distinctions.",
+    "tags": ["GPA 1.1", "4 Distinctions"]
   }
 ]

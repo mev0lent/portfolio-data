@@ -1,6 +1,38 @@
 {
-  "Languages": ["JavaScript", "TypeScript", "Python", "SQL", "HTML / CSS"],
-  "Frameworks": ["React", "Next.js", "Node.js", "Express", "Tailwind CSS"],
-  "Tools & Infra": ["Docker", "AWS", "Git", "PostgreSQL", "Redis"],
-  "Currently exploring": ["Rust", "WebAssembly", "LLMs"]
+  "Security": [
+    "Penetration Testing",
+    "Web Application Security",
+    "OSINT",
+    "Digital Forensics",
+    "Cryptography",
+    "Post-Quantum Cryptography"
+  ],
+  "Development": [
+    "Go",
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "Bash / Shell",
+    "HTML / CSS"
+  ],
+  "Tools & Infra": [
+    "Burp Suite",
+    "Docker",
+    "Git",
+    "Linux",
+    "Wireshark",
+    "Nmap"
+  ],
+  "Concepts": [
+    "Risk Quantification",
+    "Threat Modeling",
+    "Secure Software Design",
+    "Documentation-as-Code",
+    "ML Pipelines"
+  ],
+  "Currently pursuing": [
+    "BSCP (Burp Suite Certified Practitioner)",
+    "CTF competitions",
+    "Offensive Security research"
+  ]
 }
