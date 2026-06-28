@@ -21,10 +21,24 @@
     "tags": ["Python", "GPG", "Cryptography", "Forensics", "Open Source"]
   },
   {
-    "name": "ERNW Publications",
-    "description": "Four security publications at ERNW: Unified Security Hardening with Cross-Platform Native Binaries (WP #77), the Hardener tool, Linux Client Hardening Guide (WP #76), and macOS Hardening Guide (WP #75, co-authored with Julian Suleder).",
-    "url": "https://niklas-heringer.com/publications/",
+    "name": "ERNW Whitepaper #77 — Unified Security Hardening with Cross-Platform Native Binaries",
+    "description": "Introduces the Hardener tool and the Documentation-as-Code approach: hardening logic embedded in Markdown, distributed as a static binary with atomic rollback. Validated across Ubuntu, Debian, Rocky Linux, openSUSE, Arch Linux, Fedora, and RHEL.",
+    "url": "https://ernw.de/en/whitepapers/issue-77.html",
     "image": "",
-    "tags": ["Security Research", "Whitepapers", "ERNW", "Linux", "macOS"]
+    "tags": ["Security Research", "Whitepaper", "ERNW", "Linux", "Documentation-as-Code"]
+  },
+  {
+    "name": "ERNW Whitepaper #76 — Linux Client Hardening Guide",
+    "description": "Covers six security domains — authentication, network security, boot integrity, OS hardening, filesystem permissions, and application security — with mandatory and recommended controls per RFC 2119. Prioritises practical hardening over theoretical compliance.",
+    "url": "https://ernw.de/en/whitepapers/issue-76.html",
+    "image": "",
+    "tags": ["Security Research", "Whitepaper", "ERNW", "Linux", "Security Hardening"]
+  },
+  {
+    "name": "ERNW Whitepaper #75 — macOS Tahoe Hardening Guide",
+    "description": "Co-authored with Julian Suleder. Comprehensive technical guide balancing usability with security, detailing configurations to minimise the macOS attack surface on Apple systems.",
+    "url": "https://ernw.de/en/whitepapers/issue-75.html",
+    "image": "",
+    "tags": ["Security Research", "Whitepaper", "ERNW", "macOS", "Security Hardening"]
   }
 ]
