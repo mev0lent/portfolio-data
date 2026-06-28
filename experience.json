@@ -1,16 +1,16 @@
 [
   {
     "type": "work",
-    "role": "Penetration Tester",
+    "role": "Security Analyst",
     "company": "ERNW",
     "period": "Sep 2025 – Present",
     "location": "Heidelberg",
-    "description": "Regularly partaking in penetration tests across various client environments. Developing own project in security hardening & hardening automation. Focus on Web Security Academy with the goal of becoming Burp Suite Certified Practitioner.",
+    "description": "Regularly partaking in penetration tests. Developing own project in security hardening & hardening automation. Focus on Web Security Academy with the goal of becoming Burp Suite Certified Practitioner.",
     "tags": ["Web Pentesting", "Burp Suite", "Security Hardening", "Go", "Open Source"]
   },
   {
     "type": "work",
-    "role": "Lead Architect — Cyber Security Risk Intelligence Platform",
+    "role": "Lead Architect: Cyber Security Risk Intelligence Platform",
     "company": "BASF",
     "period": "Jan 2023 – Aug 2025",
     "location": "Ludwigshafen",

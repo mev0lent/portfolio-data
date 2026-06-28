@@ -1,28 +1,28 @@
 [
   {
     "name": "Hardener",
-    "description": "Cross-platform security hardening tool written in Go — no external dependencies. Supports audit, fix, and atomic rollback from a single binary across Ubuntu, Debian, Rocky Linux, ArchLinux, RHEL, Fedora, and macOS. Published as ERNW Whitepaper.",
+    "description": "Cross-platform security auditing and hardening tool written in Go. Load a ruleset, run an audit, apply fixes, and roll back if needed — all from a single binary with no external dependencies. Supports Ubuntu, Debian, Rocky Linux, ArchLinux, RHEL, Fedora, and macOS. Published as ERNW Whitepaper #77.",
     "url": "https://github.com/mev0lent/hardener",
     "image": "",
     "tags": ["Go", "Security Hardening", "Linux", "macOS", "ERNW", "Open Source"]
   },
   {
     "name": "Cherry Picker",
-    "description": "Reconnaissance tool built during the CERN Whitehat Challenge. Leverages entropy filtering, TTL clustering, and cloud targeting for web enumeration & OSINT. Still in early development — the idea is solid, the time is scarce.",
+    "description": "Smart IP selection tool for penetration testers built during the CERN Whitehat Challenge. Leverages entropy filtering, TTL clustering, and cloud targeting for web enumeration & OSINT. Still in early development — the idea is solid, the time is scarce.",
     "url": "https://github.com/mev0lent/cherry-picker",
     "image": "",
-    "tags": ["Go", "OSINT", "Reconnaissance", "CERN", "Network Analysis"]
+    "tags": ["Python", "OSINT", "Reconnaissance", "CERN", "Network Analysis"]
   },
   {
     "name": "Forensic Log Tracker",
-    "description": "Modular CLI framework for documenting and verifying forensic investigations. Implements cryptographic GPG signing and hash verification. Provides legally consistent documentation in German legal language. Used in university-level forensic training at Hochschule Mannheim.",
+    "description": "Modular, secure CLI tool for forensic professionals and students. Implements cryptographic GPG signing and hash verification for legally consistent documentation. Used in university-level forensic training at Hochschule Mannheim.",
     "url": "https://github.com/mev0lent/forensic-log-tracker",
     "image": "",
     "tags": ["Python", "GPG", "Cryptography", "Forensics", "Open Source"]
   },
   {
-    "name": "ERNW Whitepapers 2026",
-    "description": "Author of three security publications at ERNW: Unified Security Hardening with Cross-Platform Native Binaries (Issue 77), Linux Client Hardening Guide (Issue 76), and macOS Tahoe Hardening Guide (Issue 75, co-authored with Julian Suleder).",
+    "name": "ERNW Publications",
+    "description": "Four security publications at ERNW: Unified Security Hardening with Cross-Platform Native Binaries (WP #77), the Hardener tool, Linux Client Hardening Guide (WP #76), and macOS Hardening Guide (WP #75, co-authored with Julian Suleder).",
     "url": "https://niklas-heringer.com/publications/",
     "image": "",
     "tags": ["Security Research", "Whitepapers", "ERNW", "Linux", "macOS"]

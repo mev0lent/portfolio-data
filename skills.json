@@ -1,11 +1,18 @@
 {
   "Security": [
     "Penetration Testing",
+    "Active Directory Attacks",
     "Web Application Security",
-    "OSINT",
+    "Linux Privilege Escalation",
+    "Windows Privilege Escalation",
+    "NTLM Relay & Kerberos Attacks",
+    "ADCS Exploitation",
+    "OSINT & Reconnaissance",
     "Digital Forensics",
+    "Security Hardening",
     "Cryptography",
-    "Post-Quantum Cryptography"
+    "Post-Quantum Cryptography",
+    "Password Attacks & Hash Cracking"
   ],
   "Development": [
     "Go",
@@ -17,18 +24,27 @@
   ],
   "Tools & Infra": [
     "Burp Suite",
+    "BloodHound",
+    "Impacket Suite",
+    "NetExec (nxc)",
+    "Mimikatz / Rubeus",
+    "Certipy",
+    "Nmap",
+    "ffuf / gobuster",
+    "Hashcat / John the Ripper",
+    "Responder",
+    "Chisel",
+    "Wireshark",
     "Docker",
     "Git",
-    "Linux",
-    "Wireshark",
-    "Nmap"
+    "Linux"
   ],
   "Concepts": [
+    "Documentation-as-Code",
     "Risk Quantification",
     "Threat Modeling",
     "Secure Software Design",
-    "Documentation-as-Code",
-    "ML Pipelines"
+    "Static Binary Deployment"
   ],
   "Currently pursuing": [
     "BSCP (Burp Suite Certified Practitioner)",
