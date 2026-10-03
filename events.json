@@ -1,30 +1,62 @@
 [
   {
+    "name": "Black Hat USA 2026 and DEF CON 34",
+    "description": "Seven days in Las Vegas across both conferences. Field notes on the talks that stood out, from automated HTTP desync research to GPU container escapes, are on the blog.",
+    "url": "https://niklas-heringer.com/black-hat-and-def-con-2026/",
+    "image": "",
+    "tags": [
+      "Black Hat",
+      "DEF CON",
+      "Las Vegas",
+      "Field Notes"
+    ]
+  },
+  {
     "name": "Troopers26: Crew & Conference Design",
     "description": "Designed the complete visual identity for Troopers26, Europe's premier security conference, together with Matthias Ortmann (see his profile via the link). Banners, posters, shirts, bags, lanyards, stickers, patches, stage files and soo much more :D",
     "url": "https://www.linkedin.com/in/mortmann/",
     "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/troopers_26_heidelberg.JPG",
-    "tags": ["Design", "Branding", "Troopers", "Conference"]
+    "tags": [
+      "Design",
+      "Branding",
+      "Troopers",
+      "Conference"
+    ]
   },
   {
     "name": "CERN Whitehat Challenge",
     "description": "Certified participant in CERN's real-world penetration test program. Conducted security assessments under strict ethical guidelines, focused on web enumeration & OSINT.",
-    "url": "https://niklas-heringer.com/blog/",
+    "url": "https://home.cern",
     "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/CERN_Whitehat_Challenge_Cert.jpg",
-    "tags": ["Penetration Testing", "CERN", "Web Security", "OSINT", "Ethical Hacking"]
+    "tags": [
+      "Penetration Testing",
+      "CERN",
+      "Web Security",
+      "OSINT",
+      "Ethical Hacking"
+    ]
   },
   {
     "name": "CTF Mannheim: 2nd Place",
     "description": "Placed second in the \"CAPTURE THE FLAG\" Hacking Challenge 2025 together with a colleague. A great adventure — there's a full writeup on the blog.",
-    "url": "https://niklas-heringer.com/field-notes/cybersecurity-conference-2025-ctf-mannheim/",
+    "url": "https://niklas-heringer.com/cybersecurity-conference-2025-ctf-mannheim/",
     "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/MANNHEIM_CTF_25_price.jpg",
-    "tags": ["CTF", "Hacking Challenge", "Competition"]
+    "tags": [
+      "CTF",
+      "Hacking Challenge",
+      "Competition"
+    ]
   },
   {
     "name": "Black Hat Europe 2025",
     "description": "Attended Black Hat Europe in London — my first big security conference. Met awesome people and absorbed hours of talks that somehow managed to hold my ADHD-ridden mind.",
-    "url": "https://niklas-heringer.com/field-notes/road-to-black-hat-london-2025/",
+    "url": "https://niklas-heringer.com/road-to-black-hat-london-2025/",
     "image": "https://raw.githubusercontent.com/mev0lent/portfolio-data/main/images/blackhat_london_25.jpeg",
-    "tags": ["Black Hat", "Security Conference", "London", "Networking"]
+    "tags": [
+      "Black Hat",
+      "Security Conference",
+      "London",
+      "Networking"
+    ]
   }
 ]

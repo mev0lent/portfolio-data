@@ -1,44 +1,108 @@
 [
   {
     "name": "Hardener",
-    "description": "Cross-platform security auditing and hardening tool written in Go. Load a ruleset, run an audit, apply fixes, and roll back if needed — all from a single binary with no external dependencies. Supports Ubuntu, Debian, Rocky Linux, ArchLinux, RHEL, Fedora, and macOS. Published as ERNW Whitepaper #77.",
+    "description": "Cross-platform security auditing and hardening tool written in Go, under constant development. Load a ruleset, run an audit, apply fixes and roll back if needed, all from a single static binary with no external dependencies. Supports Ubuntu, Debian, Rocky Linux, openSUSE, Arch Linux, RHEL, Fedora and macOS. Documented in several ERNW whitepapers, most recently #77.",
     "url": "https://github.com/mev0lent/hardener",
     "image": "",
-    "tags": ["Go", "Security Hardening", "Linux", "macOS", "ERNW", "Open Source"]
+    "tags": [
+      "Go",
+      "Security Hardening",
+      "Linux",
+      "macOS",
+      "ERNW",
+      "Open Source",
+      "Actively Developed"
+    ]
+  },
+  {
+    "name": "Hardening Rulesets for Linux Clients and macOS 26 Tahoe",
+    "description": "The ERNW rulesets that Hardener executes, published in the ERNW hardening repository: one for Linux clients, one for macOS 26 Tahoe. Rules live in Markdown, so every check and fix is readable and reviewable.",
+    "url": "https://github.com/ernw/hardening",
+    "image": "",
+    "tags": [
+      "Security Hardening",
+      "Documentation-as-Code",
+      "Linux",
+      "macOS",
+      "ERNW"
+    ]
   },
   {
     "name": "Cherry Picker",
     "description": "Smart IP selection tool for penetration testers built during the CERN Whitehat Challenge. Leverages entropy filtering, TTL clustering, and cloud targeting for web enumeration & OSINT. Still in early development — the idea is solid, the time is scarce.",
     "url": "https://github.com/mev0lent/cherry-picker",
     "image": "",
-    "tags": ["Python", "OSINT", "Reconnaissance", "CERN", "Network Analysis"]
+    "tags": [
+      "Python",
+      "OSINT",
+      "Reconnaissance",
+      "CERN",
+      "Network Analysis"
+    ]
   },
   {
     "name": "Forensic Log Tracker",
     "description": "Modular, secure CLI tool for forensic professionals and students. Implements cryptographic GPG signing and hash verification for legally consistent documentation. Used in university-level forensic training at Hochschule Mannheim.",
     "url": "https://github.com/mev0lent/forensic-log-tracker",
     "image": "",
-    "tags": ["Python", "GPG", "Cryptography", "Forensics", "Open Source"]
+    "tags": [
+      "Python",
+      "GPG",
+      "Cryptography",
+      "Forensics",
+      "Open Source"
+    ]
   },
   {
     "name": "ERNW Whitepaper #77 — Unified Security Hardening with Cross-Platform Native Binaries",
-    "description": "Introduces the Hardener tool and the Documentation-as-Code approach: hardening logic embedded in Markdown, distributed as a static binary with atomic rollback. Validated across Ubuntu, Debian, Rocky Linux, openSUSE, Arch Linux, Fedora, and RHEL.",
+    "description": "Author: Niklas Heringer. Introduces the Hardener tool and the Documentation-as-Code approach: hardening logic embedded in Markdown, distributed as a static binary with atomic rollback. Validated across Ubuntu, Debian, Rocky Linux, openSUSE, Arch Linux, Fedora and RHEL.",
     "url": "https://ernw.de/en/whitepapers/issue-77.html",
     "image": "",
-    "tags": ["Security Research", "Whitepaper", "ERNW", "Linux", "Documentation-as-Code"]
+    "tags": [
+      "Security Research",
+      "Whitepaper",
+      "ERNW",
+      "Linux",
+      "Documentation-as-Code"
+    ]
   },
   {
     "name": "ERNW Whitepaper #76 — Linux Client Hardening Guide",
-    "description": "Covers six security domains — authentication, network security, boot integrity, OS hardening, filesystem permissions, and application security — with mandatory and recommended controls per RFC 2119. Prioritises practical hardening over theoretical compliance.",
+    "description": "Author: Niklas Heringer. Covers six security domains (authentication and identity, network security, boot integrity, OS hardening, filesystem permissions, application security and logging) with mandatory and recommended controls per RFC 2119. Prioritises practical hardening over theoretical compliance.",
     "url": "https://ernw.de/en/whitepapers/issue-76.html",
     "image": "",
-    "tags": ["Security Research", "Whitepaper", "ERNW", "Linux", "Security Hardening"]
+    "tags": [
+      "Security Research",
+      "Whitepaper",
+      "ERNW",
+      "Linux",
+      "Security Hardening"
+    ]
   },
   {
     "name": "ERNW Whitepaper #75 — macOS Tahoe Hardening Guide",
     "description": "Co-authored with Julian Suleder. Comprehensive technical guide balancing usability with security, detailing configurations to minimise the macOS attack surface on Apple systems.",
     "url": "https://ernw.de/en/whitepapers/issue-75.html",
     "image": "",
-    "tags": ["Security Research", "Whitepaper", "ERNW", "macOS", "Security Hardening"]
+    "tags": [
+      "Security Research",
+      "Whitepaper",
+      "ERNW",
+      "macOS",
+      "Security Hardening"
+    ]
+  },
+  {
+    "name": "niklas-heringer.com",
+    "description": "My blog and learning hub: post-quantum cryptography (ML-KEM and FIPS 203), a pentesting methodology for passkeys and WebAuthn, Active Directory and Windows privilege escalation, reverse engineering and digital forensics. Self-hosted, with a custom theme.",
+    "url": "https://niklas-heringer.com",
+    "image": "",
+    "tags": [
+      "Writing",
+      "Cryptography",
+      "Penetration Testing",
+      "Ghost",
+      "Self-hosted"
+    ]
   }
 ]
