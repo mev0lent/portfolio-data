@@ -1,6 +1,119 @@
 {
  "items": [
   {
+   "id": "bh-eu-2025",
+   "line": "events",
+   "title": "Black Hat Europe 2025",
+   "status": "been",
+   "date": "2025-12-08",
+   "where": "London"
+  },
+  {
+   "id": "bh-us-2026",
+   "line": "events",
+   "title": "Black Hat USA 2026",
+   "status": "been",
+   "date": "2026-08-01",
+   "where": "Las Vegas"
+  },
+  {
+   "id": "defcon-34",
+   "line": "events",
+   "title": "DEF CON 34",
+   "status": "been",
+   "date": "2026-08-06",
+   "where": "Las Vegas"
+  },
+  {
+   "id": "ccc-40c3",
+   "line": "events",
+   "title": "40C3",
+   "date": "2026-12-27",
+   "where": "Hamburg",
+   "note": "Chaos Communication Congress, end of the year as always."
+  },
+  {
+   "id": "mrmcd-2027",
+   "line": "events",
+   "title": "MRMCD 2027",
+   "date": "2027-09",
+   "where": "Darmstadt",
+   "note": "MetaRheinMain ChaosDays. Usually in September."
+  },
+  {
+   "id": "hardener-paper",
+   "line": "research",
+   "title": "The HARDENER paper",
+   "status": "going",
+   "note": "The research behind HARDENER goes public soon.",
+   "heat": 3,
+   "tags": "hardening · research"
+  },
+  {
+   "id": "ai-self-determination",
+   "line": "research",
+   "title": "Self-determination with AI",
+   "note": "How to use AI without handing over judgement and skill. Started while reading Nicholas Carr's The Glass Cage.",
+   "heat": 3,
+   "tags": "ai · essay"
+  },
+  {
+   "id": "london",
+   "line": "places",
+   "title": "London",
+   "status": "going",
+   "date": "2026-11",
+   "where": "United Kingdom",
+   "note": "Back in November, probably. First time was for Black Hat Europe 2025.",
+   "coords": "51.51 N, 0.13 W"
+  },
+  {
+   "id": "las-vegas",
+   "line": "places",
+   "title": "Las Vegas",
+   "status": "been",
+   "date": "2026-08",
+   "where": "Nevada, USA",
+   "note": "Black Hat USA and DEF CON.",
+   "coords": "36.17 N, 115.14 W"
+  },
+  {
+   "id": "berlin",
+   "line": "places",
+   "title": "Berlin",
+   "status": "been",
+   "date": "2026-05",
+   "where": "Germany",
+   "coords": "52.52 N, 13.40 E"
+  },
+  {
+   "id": "salzburg",
+   "line": "places",
+   "title": "Salzburg",
+   "status": "been",
+   "date": "2023",
+   "where": "Austria",
+   "coords": "47.80 N, 13.04 E"
+  },
+  {
+   "id": "prague",
+   "line": "places",
+   "title": "Prague",
+   "status": "been",
+   "date": "2023-07",
+   "where": "Czech Republic",
+   "coords": "50.08 N, 14.42 E"
+  },
+  {
+   "id": "vienna",
+   "line": "places",
+   "title": "Vienna",
+   "status": "been",
+   "date": "2021",
+   "where": "Austria",
+   "coords": "48.21 N, 16.37 E"
+  },
+  {
    "id": "cern",
    "line": "places",
    "title": "CERN",

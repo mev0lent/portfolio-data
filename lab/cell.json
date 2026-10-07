@@ -36,36 +36,33 @@
    "repo": "mev0lent/hardener"
   },
   {
-   "slug": "prospero-theme",
-   "name": "Prospero Theme",
-   "tagline": "The Ghost theme of this blog. Metro map, kinetic crypto story, terminal code blocks.",
+   "slug": "hardening",
+   "name": "Hardening Guides",
+   "tagline": "ERNW's hardening guides. I maintain this fork.",
    "status": "active",
-   "focus": 2,
    "lines": [
-    "lab"
+    "pentest"
    ],
-   "langs": [
-    "Handlebars",
-    "CSS",
-    "JavaScript"
-   ],
+   "langs": [],
    "commits": [
     0,
     0,
     0,
     0,
+    1,
+    1,
     0,
-    0,
-    0,
-    0,
-    0,
-    0,
+    2,
+    5,
+    1,
     0,
     0
    ],
-   "push": "2026-10-07",
+   "push": "2026-10-01",
    "posts": [],
-   "visibility": "public"
+   "url": "https://github.com/mev0lent/hardening",
+   "visibility": "public",
+   "repo": "mev0lent/hardening"
   },
   {
    "slug": "elenchus",
@@ -195,67 +192,6 @@
    "repo": "mev0lent/security-cheatsheets"
   },
   {
-   "slug": "session-attacks-lab",
-   "name": "session-attacks-lab",
-   "tagline": "A small demo application to test out session attacks.",
-   "status": "archived",
-   "lines": [
-    "web"
-   ],
-   "langs": [
-    "HTML",
-    "Python",
-    "CSS"
-   ],
-   "commits": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "push": "2026-03-17",
-   "posts": [],
-   "url": "https://github.com/mev0lent/session-attacks-lab",
-   "visibility": "public",
-   "repo": "mev0lent/session-attacks-lab"
-  },
-  {
-   "slug": "saml-test-environment",
-   "name": "saml-test-environment",
-   "status": "archived",
-   "lines": [
-    "web"
-   ],
-   "langs": [],
-   "commits": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "push": "2025-09-17",
-   "posts": [],
-   "url": "https://github.com/mev0lent/saml-test-environment",
-   "visibility": "public",
-   "repo": "mev0lent/saml-test-environment"
-  },
-  {
    "slug": "cherry-picker",
    "name": "cherry-picker",
    "tagline": "Smart IP selection tool for penetration testers.",
@@ -285,35 +221,6 @@
    "url": "https://github.com/mev0lent/cherry-picker",
    "visibility": "public",
    "repo": "mev0lent/cherry-picker"
-  },
-  {
-   "slug": "portfolio-data",
-   "name": "portfolio-data",
-   "tagline": "The JSON behind the CV page and this one.",
-   "status": "active",
-   "lines": [
-    "misc"
-   ],
-   "langs": [],
-   "commits": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2
-   ],
-   "push": "2026-10-07",
-   "posts": [],
-   "url": "https://github.com/mev0lent/portfolio-data",
-   "visibility": "public",
-   "repo": "mev0lent/portfolio-data"
   },
   {
    "codename": "CALIBAN",
@@ -368,13 +275,6 @@
   }
  ],
  "log": [
-  {
-   "date": "2026-10-04",
-   "project": "prospero-theme",
-   "name": "Prospero Theme",
-   "kind": "post",
-   "text": "Moved this blog from Ghost(Pro) to a box under my desk"
-  },
   {
    "date": "2026-08-30",
    "project": "hardener",
