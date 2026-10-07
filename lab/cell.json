@@ -307,13 +307,64 @@
     0,
     0,
     0,
-    1
+    2
    ],
-   "push": "2026-10-03",
+   "push": "2026-10-07",
    "posts": [],
    "url": "https://github.com/mev0lent/portfolio-data",
    "visibility": "public",
    "repo": "mev0lent/portfolio-data"
+  },
+  {
+   "codename": "CALIBAN",
+   "visibility": "redacted",
+   "status": "active",
+   "lines": [
+    "research"
+   ],
+   "commits": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    7,
+    3,
+    3,
+    30,
+    0
+   ],
+   "push_week": "2026-09-28",
+   "milestone": null,
+   "focus": null
+  },
+  {
+   "codename": "MIRANDA",
+   "visibility": "redacted",
+   "status": "active",
+   "lines": [
+    "research",
+    "data"
+   ],
+   "commits": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6,
+    0,
+    0
+   ],
+   "push_week": "2026-09-21",
+   "milestone": null,
+   "focus": null
   }
  ],
  "log": [
