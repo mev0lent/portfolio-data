@@ -1,0 +1,344 @@
+{
+ "projects": [
+  {
+   "slug": "hardener",
+   "name": "HARDENER",
+   "tagline": "A cross-platform security auditing and hardening tool. Load a ruleset, run an audit, apply fixes, and roll back if needed, all from a single binary with no external dependencies.",
+   "status": "active",
+   "focus": 1,
+   "lines": [
+    "pentest",
+    "lab"
+   ],
+   "langs": [
+    "Go",
+    "Shell",
+    "Python"
+   ],
+   "commits": [
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    5,
+    5,
+    0,
+    0,
+    0,
+    3
+   ],
+   "push": "2026-10-01",
+   "posts": [],
+   "url": "https://github.com/mev0lent/hardener",
+   "visibility": "public",
+   "repo": "mev0lent/hardener"
+  },
+  {
+   "slug": "prospero-theme",
+   "name": "Prospero Theme",
+   "tagline": "The Ghost theme of this blog. Metro map, kinetic crypto story, terminal code blocks.",
+   "status": "active",
+   "focus": 2,
+   "lines": [
+    "lab"
+   ],
+   "langs": [
+    "Handlebars",
+    "CSS",
+    "JavaScript"
+   ],
+   "commits": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "push": "2026-10-07",
+   "posts": [],
+   "visibility": "public"
+  },
+  {
+   "slug": "elenchus",
+   "name": "elenchus",
+   "status": "active",
+   "lines": [
+    "misc"
+   ],
+   "langs": [],
+   "commits": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "push": "2026-10-06",
+   "posts": [],
+   "url": "https://github.com/mev0lent/elenchus",
+   "visibility": "public",
+   "repo": "mev0lent/elenchus"
+  },
+  {
+   "slug": "maeve",
+   "name": "MAEVE",
+   "tagline": "OSCP Quest tracker",
+   "status": "archived",
+   "lines": [
+    "pentest",
+    "lab"
+   ],
+   "langs": [
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "commits": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "push": "2026-06-07",
+   "posts": [],
+   "url": "https://github.com/mev0lent/MAEVE",
+   "visibility": "public",
+   "repo": "mev0lent/MAEVE"
+  },
+  {
+   "slug": "forensic-log-tracker",
+   "name": "forensic-log-tracker",
+   "tagline": "A modular, secure CLI tool for forensic professionals and students.",
+   "status": "archived",
+   "lines": [
+    "forensics"
+   ],
+   "langs": [
+    "Python",
+    "Shell",
+    "Dockerfile"
+   ],
+   "commits": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "push": "2026-04-06",
+   "posts": [],
+   "url": "https://github.com/mev0lent/forensic-log-tracker",
+   "visibility": "public",
+   "repo": "mev0lent/forensic-log-tracker"
+  },
+  {
+   "slug": "security-cheatsheets",
+   "name": "security-cheatsheets",
+   "tagline": "Hands-on reference sheets with interactive quizzes. Just the stuff you really need.",
+   "status": "archived",
+   "lines": [
+    "web",
+    "lab"
+   ],
+   "langs": [
+    "HTML"
+   ],
+   "commits": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "push": "2026-03-27",
+   "posts": [],
+   "url": "https://github.com/mev0lent/security-cheatsheets",
+   "visibility": "public",
+   "repo": "mev0lent/security-cheatsheets"
+  },
+  {
+   "slug": "session-attacks-lab",
+   "name": "session-attacks-lab",
+   "tagline": "A small demo application to test out session attacks.",
+   "status": "archived",
+   "lines": [
+    "web"
+   ],
+   "langs": [
+    "HTML",
+    "Python",
+    "CSS"
+   ],
+   "commits": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "push": "2026-03-17",
+   "posts": [],
+   "url": "https://github.com/mev0lent/session-attacks-lab",
+   "visibility": "public",
+   "repo": "mev0lent/session-attacks-lab"
+  },
+  {
+   "slug": "saml-test-environment",
+   "name": "saml-test-environment",
+   "status": "archived",
+   "lines": [
+    "web"
+   ],
+   "langs": [],
+   "commits": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "push": "2025-09-17",
+   "posts": [],
+   "url": "https://github.com/mev0lent/saml-test-environment",
+   "visibility": "public",
+   "repo": "mev0lent/saml-test-environment"
+  },
+  {
+   "slug": "cherry-picker",
+   "name": "cherry-picker",
+   "tagline": "Smart IP selection tool for penetration testers.",
+   "status": "archived",
+   "lines": [
+    "pentest"
+   ],
+   "langs": [
+    "Python"
+   ],
+   "commits": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "push": "2025-04-29",
+   "posts": [],
+   "url": "https://github.com/mev0lent/cherry-picker",
+   "visibility": "public",
+   "repo": "mev0lent/cherry-picker"
+  },
+  {
+   "slug": "portfolio-data",
+   "name": "portfolio-data",
+   "tagline": "The JSON behind the CV page and this one.",
+   "status": "active",
+   "lines": [
+    "misc"
+   ],
+   "langs": [],
+   "commits": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "push": "2026-10-03",
+   "posts": [],
+   "url": "https://github.com/mev0lent/portfolio-data",
+   "visibility": "public",
+   "repo": "mev0lent/portfolio-data"
+  }
+ ],
+ "log": [
+  {
+   "date": "2026-10-04",
+   "project": "prospero-theme",
+   "name": "Prospero Theme",
+   "kind": "post",
+   "text": "Moved this blog from Ghost(Pro) to a box under my desk"
+  },
+  {
+   "date": "2026-08-30",
+   "project": "hardener",
+   "name": "HARDENER",
+   "kind": "release",
+   "text": "v1.2: Hardener v1.2 - rollback fidelity fix",
+   "url": "https://github.com/mev0lent/hardener/releases/tag/v1.2"
+  },
+  {
+   "date": "2026-08-30",
+   "project": "hardener",
+   "name": "HARDENER",
+   "kind": "release",
+   "text": "v1.1: Hardener v1.1",
+   "url": "https://github.com/mev0lent/hardener/releases/tag/v1.1"
+  }
+ ]
+}
