@@ -39,7 +39,7 @@
    "slug": "hardening",
    "name": "Hardening Guides",
    "tagline": "ERNW's hardening guides. I maintain this fork.",
-   "status": "active",
+   "status": "paused",
    "lines": [
     "pentest"
    ],
@@ -239,9 +239,9 @@
     0,
     10,
     2,
-    2,
-    5,
-    27,
+    3,
+    6,
+    25,
     0,
     6,
     0,
