@@ -18,13 +18,13 @@
    "commits": [
     2,
     5,
-    0,
-    5,
+    1,
+    4,
     0,
     0,
     3,
-    0,
     1,
+    0,
     0,
     0,
     0
@@ -39,7 +39,7 @@
    "slug": "hardening",
    "name": "Hardening Guides",
    "tagline": "ERNW's hardening guides. I maintain this fork.",
-   "status": "paused",
+   "status": "active",
    "lines": [
     "pentest"
    ],
@@ -58,7 +58,7 @@
     0,
     0
    ],
-   "push": "2026-10-01",
+   "push": "2026-11-10",
    "posts": [],
    "url": "https://github.com/mev0lent/hardening",
    "visibility": "public",
@@ -241,8 +241,8 @@
     3,
     30,
     0,
-    3,
-    3,
+    6,
+    0,
     0,
     0,
     0
@@ -264,8 +264,8 @@
     0,
     0,
     0,
-    3,
-    3,
+    6,
+    0,
     0,
     0,
     0,
