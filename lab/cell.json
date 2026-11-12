@@ -21,8 +21,8 @@
     5,
     0,
     0,
-    0,
     3,
+    0,
     1,
     0,
     0,
@@ -31,7 +31,7 @@
    ],
    "push": "2026-11-10",
    "posts": [],
-   "url": "https://github.com/mev0lent/hardener",
+   "url": "https://github.com/ernw/hardener",
    "visibility": "public",
    "repo": "mev0lent/hardener"
   },
@@ -45,11 +45,11 @@
    ],
    "langs": [],
    "commits": [
+    0,
+    0,
+    7,
     1,
     0,
-    2,
-    5,
-    1,
     0,
     0,
     0,
@@ -84,8 +84,8 @@
     0,
     0,
     0,
-    3,
-    2,
+    5,
+    0,
     0,
     0,
     3
@@ -229,15 +229,15 @@
   {
    "codename": "CALIBAN",
    "visibility": "redacted",
-   "status": "active",
+   "status": "paused",
    "lines": [
     "research"
    ],
    "commits": [
     0,
     3,
-    7,
-    3,
+    9,
+    1,
     3,
     30,
     0,
@@ -263,8 +263,8 @@
     0,
     0,
     0,
-    0,
-    6,
+    3,
+    3,
     0,
     0,
     0,
@@ -285,7 +285,7 @@
    "name": "HARDENER",
    "kind": "release",
    "text": "v1.2: Hardener v1.2 - rollback fidelity fix",
-   "url": "https://github.com/mev0lent/hardener/releases/tag/v1.2"
+   "url": "https://github.com/ernw/hardener/releases/tag/v1.2"
   },
   {
    "date": "2026-08-30",
@@ -293,7 +293,7 @@
    "name": "HARDENER",
    "kind": "release",
    "text": "v1.1: Hardener v1.1",
-   "url": "https://github.com/mev0lent/hardener/releases/tag/v1.1"
+   "url": "https://github.com/ernw/hardener/releases/tag/v1.1"
   }
  ]
 }
